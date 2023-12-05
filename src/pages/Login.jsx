@@ -1,8 +1,10 @@
+import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 import { supabase } from '../lib/supabase';
 function Login() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  const navigate =useNavigate();
 
   const createUser = async () => {
     const { data, error } = await supabase.auth.signUp({
@@ -17,9 +19,14 @@ function Login() {
       email,
       password,
     });
-    console.log(data, error);
-  };
 
+    if (!error) {
+      // Redirigir al usuario a la página "home" si el inicio de sesión es exitoso
+      navigate('/home');
+    } else {
+      console.error(error);
+    }
+  };
   return (
     <div>
       <h1>Register/Login</h1>

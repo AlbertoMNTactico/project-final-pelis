@@ -3,6 +3,7 @@ import ProtectedRoute from './components/ProtectedRoute';
 import Login from './pages/Login';
 import { AuthProvider } from './providers/AuthProvider';
 import Home from './pages/Home';
+import Reviews from './pages/Reviews'; 
 import NavBar from './components/NavBar';
 
 function App() {
@@ -21,6 +22,8 @@ function App() {
                 </ProtectedRoute>
               }
             />
+            {/* Añade una nueva ruta para "reviews" */}
+            <Route path="/reviews" element={<Reviews />} />
           </Routes>
         </AuthProvider>
       </BrowserRouter>

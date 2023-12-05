@@ -1,9 +1,7 @@
-/* eslint-disable react-refresh/only-export-components */
 import { useState, useEffect, useContext, createContext } from 'react';
 import { supabase } from '../lib/supabase';
 
 const AuthContext = createContext({});
-// custom hook to use context
 export function useAuth() {
   return useContext(AuthContext);
 }
@@ -35,7 +33,6 @@ export function AuthProvider({ children }) {
     session,
     user,
     signOut,
-    // add more custom methods or properties here
   };
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
