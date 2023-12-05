@@ -1,0 +1,132 @@
+{
+  "movie_results": [
+    {
+      "title": "'Harry Potter': Behind the Magic",
+      "year": 2005,
+      "imdb_id": "tt0497106"
+    },
+    {
+      "title": "50 Greatest Harry Potter Moments",
+      "year": 2011,
+      "imdb_id": "tt2006673"
+    },
+    {
+      "title": "Creating the World of Harry Potter, Part 1: The Magic Begins",
+      "year": 2009,
+      "imdb_id": "tt1501346"
+    },
+    {
+      "title": "Creating the World of Harry Potter, Part 2: Characters",
+      "year": 2009,
+      "imdb_id": "tt1501347"
+    },
+    {
+      "title": "Creating the World of Harry Potter, Part 4: Sound and Music",
+      "year": 2010,
+      "imdb_id": "tt1781796"
+    },
+    {
+      "title": "Creating the World of Harry Potter, Part 5: Evolution",
+      "year": 2011,
+      "imdb_id": "tt2339411"
+    },
+    {
+      "title": "Creating the World of Harry Potter, Part 6: Magical Effects",
+      "year": 2011,
+      "imdb_id": "tt2339413"
+    },
+    {
+      "title": "Creating the World of Harry Potter, Part 8: Growing Up",
+      "year": 2012,
+      "imdb_id": "tt2339417"
+    },
+    {
+      "title": "Daniel Radcliffe: Being Harry Potter",
+      "year": 2012,
+      "imdb_id": "tt2704274"
+    },
+    {
+      "title": "Discovering the Real World of Harry Potter",
+      "year": 2001,
+      "imdb_id": "tt0443483"
+    },
+    {
+      "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+      "year": 2022,
+      "imdb_id": "tt16116174"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "imdb_id": "tt0295297"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "imdb_id": "tt0926084"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011,
+      "imdb_id": "tt1201607"
+    },
+    {
+      "title": "Harry Potter and the Escape from Gringotts",
+      "year": 2014,
+      "imdb_id": "tt3731688"
+    },
+    {
+      "title": "Harry Potter and the Forbidden Journey",
+      "year": 2010,
+      "imdb_id": "tt1756545"
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2005,
+      "imdb_id": "tt0330373"
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "year": 2009,
+      "imdb_id": "tt0417741"
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "year": 2007,
+      "imdb_id": "tt0373889"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 2001,
+      "imdb_id": "tt0241527"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "imdb_id": "tt0304141"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "imdb_id": "tt0241527,tt1201607,tt0330373,"
+    },
+    {
+      "title": "Harry Potter: A History Of Magic",
+      "year": 2017,
+      "imdb_id": "tt7783322"
+    },
+    {
+      "title": "Harry Potter: The Making of Diagon Alley",
+      "year": 2014,
+      "imdb_id": "tt5901980"
+    },
+    {
+      "title": "Midnight Screenings Harry Potter and the Deathly Hallows, Part 2",
+      "year": 2011,
+      "imdb_id": "tt3116138"
+    }
+  ],
+  "search_results": 25,
+  "status": "OK",
+  "status_message": "Query was successful"
+}
